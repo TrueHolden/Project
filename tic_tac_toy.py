@@ -90,4 +90,4 @@ while True:
         print('Ничья')
         show_field()
         break
-
+# попробуй запустить код
